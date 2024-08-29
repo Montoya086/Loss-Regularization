@@ -1,0 +1,8 @@
+numpy<2.0.0
+matplotlib
+scipy
+torch
+torchvision
+torchaudio
+torchsummary
+scikit-learn
