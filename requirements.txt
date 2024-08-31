@@ -6,3 +6,4 @@ torchvision
 torchaudio
 torchsummary
 scikit-learn
+pandas
